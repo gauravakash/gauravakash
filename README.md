@@ -4,7 +4,7 @@
 
 ### Gen AI Engineer | Building Intelligent Systems with LLMs, RAG & Agentic AI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravakash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-gaurav-16a9b7158/)
 [![GitHub followers](https://img.shields.io/github/followers/gauravakash?label=Follow&style=for-the-badge)](https://github.com/gauravakash)
 [![Profile Views](https://komarev.com/ghpvc/?username=gauravakash&style=for-the-badge&color=blueviolet)](https://github.com/gauravakash)
 
